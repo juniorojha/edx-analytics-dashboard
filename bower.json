@@ -1,6 +1,6 @@
 {
   "name": "edx-analytics-dashboard",
-  "homepage": "https://github.com/edx/edx-analytics-dashboard",
+  "homepage": "https://github.com/juniorojha/edx-analytics-dashboard",
   "private": true,
   "ignore": [
     "**/.*",
