@@ -28,7 +28,7 @@
     "font-awesome": "~4.6.3",
     "natural-sort": "https://github.com/overset/javascript-natural-sort.git",
     "cldr-data": "29.0.0",
-    "edx-ui-toolkit": "https://github.com/edx/edx-ui-toolkit.git",
+    "edx-ui-toolkit": "https://github.com/juniorojha/edx-ui-toolkit.git",
     "marionette": "~2.4.4",
     "uri.js": "1.17",
     "backgrid": "0.3.8",
